@@ -16,7 +16,7 @@ public class FirstLongestSubString {
 	        int left = 0;
 	        int maxLength = 0;
 	        
-	        for (int right = 0; right < str.length(); right++) {
+	        for (int right = 0; right < str.length(); right++) {  
 	            char ch = str.charAt(right);
 	            
 	            

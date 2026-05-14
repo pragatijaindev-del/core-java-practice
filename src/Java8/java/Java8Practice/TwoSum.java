@@ -1,4 +1,4 @@
-package com.example;
+package Java8Practice;
 
 import java.util.HashMap;
 import java.util.Map;

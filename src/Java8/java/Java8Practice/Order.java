@@ -1,4 +1,4 @@
-package com.example;
+package Java8Practice;
 
 public class Order {
     int id;

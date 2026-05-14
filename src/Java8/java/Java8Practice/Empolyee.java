@@ -1,4 +1,4 @@
-package com.example;
+package Java8Practice;
 //Group employees by department using groupingBy()
 public class Empolyee {
     String name;
